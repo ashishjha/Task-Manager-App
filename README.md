@@ -8,4 +8,5 @@ Task Manager App with neumorphism UI built using Node.js, Express.js, and MongoD
 - Delete a task
 
 ![screenshot](./assets/screenshot1.png)
+
 ![screenshot1](./assets/screenshot2.png)
