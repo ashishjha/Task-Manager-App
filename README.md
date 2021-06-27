@@ -7,5 +7,5 @@ Task Manager App with neumorphism UI built using Node.js, Express.js, and MongoD
 - Mark as completed
 - Delete a task
 
-![screen shot](./assest/Screenshot (465).png)
-![screen shot1](./assest/Screenshot (466).png)
+![screen shot](./assests/Screenshot (465).png)
+![screen shot1](./assests/Screenshot (466).png)
