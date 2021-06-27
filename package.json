@@ -1,5 +1,5 @@
 {
-  "name": "jobs",
+  "name": "Task Manager API",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ashish Jha",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
