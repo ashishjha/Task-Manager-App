@@ -520,7 +520,7 @@ form > :last-child {
   width: 100vw;
   max-width: var(--fixed-width-outer);
   margin: 0 auto;
-  margin-top: 6rem;
+  margin-top: 3rem;
   height: auto;
   padding: 1rem;
   border-radius: 3.5rem;
