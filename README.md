@@ -13,10 +13,10 @@ Task Manager App with neumorphism UI, dark theme, and light theme options built 
 - Mark as completed
 - Delete a task
 
-![screenshot](./assets/screenshot1.png)
+![screenshot](./assets/light1.png)
 
 ![screenshot2](./assets/dark2.png)
 
-![screenshot3](./assets/screenshot2.png)
+![screenshot3](./assets/light2.png)
 
 ![screenshot4](./assets/dark1.png)
