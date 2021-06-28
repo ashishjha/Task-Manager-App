@@ -1,6 +1,6 @@
 # Task-Manager-App
 
-Task Manager App with neumorphism UI built using Node.js, Express.js, and MongoDB. With the feature to edit and delete a task.
+Task Manager App with neumorphism UI, dark theme, and light theme options built using Node.js, Express.js, and MongoDB. With the feature to edit and delete a task.
 
 # Visit Me!
 
