@@ -17,6 +17,6 @@ Task Manager App with neumorphism UI built using Node.js, Express.js, and MongoD
 
 ![screenshot2](./assets/dark2.png)
 
-![screenshot3](./assets/dark1.png)
+![screenshot3](./assets/screenshot2.png)
 
-![screenshot4](./assets/screenshot2.png)
+![screenshot4](./assets/dark1.png)
