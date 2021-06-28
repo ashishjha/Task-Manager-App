@@ -72,8 +72,8 @@ html {
 }
 
 body {
-  background: #e0e0e0;
-  color: var(--textColor);
+  background: #151623;
+  color: #e0e0e0;
   font-family: var(--bodyFont);
   font-weight: 400;
   line-height: 1.75;
@@ -137,7 +137,7 @@ a {
 .btn {
   cursor: pointer;
   appearance: none;
-  color: var(--white);
+  color: #e0e0e0;
   background: var(--primary-500);
   border: none;
   border-radius: 1rem;
@@ -149,7 +149,7 @@ a {
 }
 
 .btn:hover {
-  color: var(--white);
+  color: #e0e0e0;
   background: var(--primary-700);
   box-shadow: var(--shadow-2);
 }
@@ -194,7 +194,7 @@ textarea {
   border-radius: var(--borderRadius);
   background: var(--grey-50);
   border-color: transparent;
-  border: 1px solid var(--grey-300);
+  /*border: 1px solid var(--grey-300);*/
 }
 .form-row {
   margin-bottom: 1rem;
@@ -205,7 +205,7 @@ textarea {
 }
 
 ::placeholder {
-  color: var(--grey-600);
+  color: #646468;
 }
 .form-alert {
   color: var(--red-dark);
@@ -219,8 +219,8 @@ textarea {
   margin: 0 auto;
   /*margin-top: 6rem;*/
   border-radius: 3rem;
-  background-color: #e0e0e0;
-  box-shadow: -6px -6px 12px #ffffff inset, 6px 6px 12px #b1b1b1 inset;
+  background-color: #151623;
+  box-shadow: -6px -6px 12px #1f2033 inset, 6px 6px 12px #0b0c13 inset;
 }
 
 .single-task-form {
@@ -229,8 +229,8 @@ textarea {
   margin: 0 auto;
   /*margin-top: 6rem;*/
   border-radius: 3rem;
-  background-color: #e0e0e0;
-  box-shadow: 8px 8px 16px #b1b1b1, -8px -8px 16px #ffffff;
+  background-color: #151623;
+  box-shadow: 8px 8px 16px #0b0c13, -8px -8px 16px #1f2033;
 }
 
 .task-form h4 {
@@ -251,9 +251,9 @@ textarea {
 
   .task-input {
     border-radius: 1rem;
-    background: #e0e0e0;
-    color: #000000;
-    box-shadow: 4px 4px 8px #b1b1b1 inset, -4px -4px 8px #ffffff inset;
+    background: #151623;
+    color: #e0e0e0;
+    box-shadow: 4px 4px 8px #0b0c13 inset, -4px -4px 8px #1f2033 inset;
     outline: none;
     /*border-top-left-radius: var(--borderRadius);
     border-bottom-left-radius: var(--borderRadius);*/
@@ -279,9 +279,9 @@ textarea {
 
 .task-input {
   border-radius: 1rem;
-  background: #e0e0e0;
-  color: #000000;
-  box-shadow: 4px 4px 8px #b1b1b1 inset, -4px -4px 8px #ffffff inset;
+  background: #151623;
+  color: #e0e0e0;
+  box-shadow: 4px 4px 8px #0b0c13 inset, -4px -4px 8px #1f2033 inset;
   outline: none;
 }
 
@@ -381,16 +381,16 @@ form > :last-child {
 }
 .single-task {
   padding: 1rem 2.5rem;
-  background: #e0e0e0;
+  background: #151623;
   border-radius: 3rem;
-  box-shadow: 6px 6px 12px #b1b1b1 inset, -6px -6px 12px #ffffff inset;
+  box-shadow: 6px 6px 12px #0b0c13 inset, -6px -6px 12px #1f2033 inset;
   transition: var(--transition);
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 .single-task:hover {
-  box-shadow: 6px 6px 12px #b1b1b1, -6px -6px 12px #ffffff;
+  box-shadow: 6px 6px 12px #0b0c13, -6px -6px 12px #1f2033;
 }
 .single-task h5 {
   margin-bottom: 0;
@@ -468,20 +468,20 @@ form > :last-child {
   width: auto;
 }
 .back-link {
-  color: #000000;
+  color: #e0e0e0;
   display: block;
   width: 250px;
   margin: 0 auto;
   text-align: center;
   margin-top: 6rem;
-  background: #e0e0e0;
-  box-shadow: 4px 4px 8px #b1b1b1, -4px -4px 8px #ffffff;
+  background: #151623;
+  box-shadow: 4px 4px 8px #0b0c13, -4px -4px 8px #1f2033;
   border-radius: 2rem;
 }
 .back-link:hover {
-  background: #e0e0e0;
-  color: #000000;
-  box-shadow: 4px 4px 8px #b1b1b1 inset, -4px -4px 8px #ffffff inset;
+  background: #151623;
+  color: #e0e0e0;
+  box-shadow: 4px 4px 8px #0b0c13 inset, -4px -4px 8px #1f2033 inset;
   /*opacity: 0.75;*/
 }
 
@@ -492,9 +492,9 @@ form > :last-child {
 
 .task-edit-name {
   border-radius: 1rem;
-  background: #e0e0e0;
-  color: #000000;
-  box-shadow: 4px 4px 8px #b1b1b1 inset, -4px -4px 8px #ffffff inset;
+  background: #151623;
+  color: #e0e0e0;
+  box-shadow: 4px 4px 8px #0b0c13 inset, -4px -4px 8px #1f2033 inset;
   outline: none;
 }
 
@@ -506,8 +506,8 @@ form > :last-child {
   height: auto;
   padding: 1rem;
   border-radius: 3.5rem;
-  background: #e0e0e0;
-  box-shadow: -8px -8px 16px #ffffff inset, 8px 8px 16px #b1b1b1 inset;
+  background: #151623;
+  box-shadow: -8px -8px 16px #1f2033 inset, 8px 8px 16px #0b0c13 inset;
 
   display: flex;
   flex-direction: row;
@@ -524,8 +524,8 @@ form > :last-child {
   height: auto;
   padding: 1rem;
   border-radius: 3.5rem;
-  background: #e0e0e0;
-  box-shadow: 8px 8px 16px #b1b1b1, -8px -8px 16px #ffffff;
+  background: #151623;
+  box-shadow: 8px 8px 16px #0b0c13, -8px -8px 16px #1f2033;
 
   display: flex;
   flex-direction: row;

@@ -17,7 +17,11 @@
     <link rel="stylesheet" href="./main.css" />
     <title>Task Manager</title>
   </head>
-  <body>
+  <body onload="checkLocalStorage(1)">
+    <label class="switch">
+      <input type="checkbox" id="toggle-btn" onClick="toggler()" />
+      <span class="slider round"></span>
+    </label>
     <div class="outer-div-out">
       <form class="task-form">
         <h4>task manager</h4>
@@ -45,5 +49,6 @@
       referrerpolicy="no-referrer"
     ></script>
     <script src="./browser-app.js"></script>
+    <script src="./index.js"></script>
   </body>
 </html>
