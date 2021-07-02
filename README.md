@@ -11,7 +11,7 @@ Task Manager App with neumorphism UI, dark theme, and light theme options built 
 - Add a new task
 - Edit an existing task
 - Mark as completed
-- Delete a task
+- Delete a tas
 
 ![screenshot](./assets/light1.png)
 
